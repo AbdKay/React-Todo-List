@@ -48,7 +48,8 @@ npm run build
 npm run preview
 ```
 
-Open the dev server URL (usually printed like `http://localhost:5173`) in your browser.
+## 🚀 Live Demo
+👉 [Try it here](https://react-todo-list-pbff.vercel.app/)
 
 ## 🧠 How It Works
 - **State** of the todo list lives in `App.jsx` using `useState`.
